@@ -1,0 +1,23 @@
+Class:
+A blueprint or template that defines properties (data) and behaviors (actions) for something.
+Example: A Car class defines features like color, model, and actions like drive().
+
+Object:
+A real instance of the class (like a physical car made using the blueprint).
+The object holds actual values for the class properties.
+Example: An object of Car might be “Red Toyota Liva”.
+
+
+Key Idea:
+Class = Recipe.
+Object = The baked cookie.
+Why Use Them?
+
+Organize code (model real-world entities like cars, dogs, people, etc.).
+Reuse logic (create multiple objects from a single blueprint).
+Makes programming cleaner and easier to manage.
+
+Simple Analogy:
+Class = Blueprint for a house 🏠.
+Object = Actual houses built from the blueprint. Each house is unique but shares the same design.
+That's it! 😊
