@@ -1,0 +1,17 @@
+A constructor in Java is a special type of method used to initialize objects. 
+When you create an object of a class (using the new keyword), 
+the constructor is automatically called to set up the initial state of the object 
+(e.g., initializing variables).
+
+Key Features of a Constructor
+Same Name as the Class:
+A constructor must have the same name as the class in which it is defined.
+
+No Return Type:
+A constructor does not have a return type, not even void. This differentiates it from a method.
+
+Called Automatically:
+It is automatically invoked when an object is created. You don't need to call it manually.
+
+Can Be Overloaded:
+You can create multiple constructors in a class with different parameters (constructor overloading).
